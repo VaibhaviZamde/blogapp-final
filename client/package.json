@@ -42,6 +42,10 @@
     ]
   },
   "engines": {
+<<<<<<< HEAD
   "node": "18.x"
+=======
+  "node": "16.x"
+>>>>>>> 4dfc899 (fix: node version)
 }
 }
