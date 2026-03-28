@@ -40,12 +40,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "engines": {
-<<<<<<< HEAD
-  "node": "18.x"
-=======
-  "node": "16.x"
->>>>>>> 4dfc899 (fix: node version)
-}
+  }
 }
